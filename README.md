@@ -11,6 +11,7 @@ original BSD announcements from Usenet or tapes.
 
 Steven M. Schultz for providing 2.8BSD, 2.10BSD, 2.11BSD manual pages.
 Wolfram Schneider <wosch@FreeBSD.ORG>
-Megan Marie Soriano
+All creations dedicated to my best friend: Megan Marie Soriano
+I will never be able to express how much her strength and intelligence inspires me to carry on and be my best every day. Thanks for loving me.
 --
 Copyright (c) 1991-2023 Cody J. Updyke <cupdyke@gmail.com>,<codeupdke@icloud.com>,<admin@mdfupdyke.com>
